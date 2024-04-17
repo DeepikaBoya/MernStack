@@ -22,7 +22,7 @@
     "mongoose": "^8.3.1",
     "nodemon": "^3.1.0",
     "react-markdown": "^9.0.1",
-    "vercel": "^34.0.0"
+    "vercel": "^32.3.0"
   },
   "devDependencies": {
     "redux-devtools-extension": "^2.13.9"
